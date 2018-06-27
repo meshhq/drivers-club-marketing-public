@@ -1,0 +1,15 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light custom-navbar">
+  <img src="assets/img/logo-stripes.svg" class="img-fluid" alt="Responsive image">
+  <img src="assets/img/logo-title.svg" class="img-fluid logo-title" alt="Responsive image">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav navbar-items">
+      <a class="nav-item nav-link active custom-nav-link" href="https://app.drivers.club/events">EVENTS <span class="sr-only">(current)</span></a>
+      <!-- <a id="demo-button" class="nav-item nav-link custom-nav-link" href="#">BLOG</a> -->
+      <a class="nav-item nav-link custom-nav-link" href="https://app.drivers.club/inquiry">APPLY</a>
+      <a class="nav-item nav-link custom-nav-link button-link" href="https://app.drivers.club">MEMBER LOGIN</a>
+    </div>
+  </div>
+</nav>

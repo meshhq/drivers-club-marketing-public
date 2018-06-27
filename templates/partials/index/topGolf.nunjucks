@@ -1,0 +1,18 @@
+<div class="row top-golf-container" align="center">
+	<div class="col-xs-12 content-container">
+
+		<div class='col-xs-12 content-col'>
+			<div class="col-xs-12 col-lg-6 description-col">
+				{# <h1>Experience  a  New  Way  to  Play </h1> #}
+				<h1>More Than Driving </h1>
+				<h5 class="description">
+					Drivers  Club  is  home  to  the  only  private  Topgolf™  Swing  Suite.  Whether  you’re  an  aspiring  golf  pro  or  picking  up  a  club  for  the  first  time,  Topgolf™  is  <span>everyone’s  game.</span>
+				</h5>
+			</div>
+
+			<div class="col-xs-12 col-lg-6 img-col">
+				<img id='top-golf-image' src="../../../assets/img/tg-swing-suite.png" class="img-fluid" alt="Responsive image" />
+			</div>
+		</div>
+	</div>
+</div>

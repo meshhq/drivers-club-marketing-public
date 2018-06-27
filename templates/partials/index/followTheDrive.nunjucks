@@ -1,0 +1,9 @@
+<div class="row follow-the-drive-container" align="center">
+	<div class="col-xs-12 content-container">	
+		<h1>Follow the Drive</h1>
+		<h5 class="description">
+			Jump into the passenger seat and stay up to date with events and more. 
+		</h5>
+		<button id="learn-more">Learn More</button>
+	</div>
+</div>

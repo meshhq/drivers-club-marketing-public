@@ -1,0 +1,51 @@
+{% macro memberBlock(imgagePath, title, text1, text2, text3, buttonText) %}
+	<div class="col-xs-12 col-md-6 member-block">
+		<img src={{imgagePath}} class="img-responsive" alt="Responsive image" />
+		<h1>{{title}}</h1>
+		{# <div class='list-div'>
+			<h6>{{text1}}</h6>
+			<h6>{{text2}}</h6>
+			{% if text3 %}<h6>{{text3}}</h6>{% endif %}
+		</div> #}
+
+		<ul>
+			<li>{{text1}}</li>
+			<li>{{text2}}</li>
+			{% if text3 %}<li>{{text3}}</li>{% endif %}
+		</ul>
+		
+		<button class="inquire-button">{{buttonText}}</button>
+	</div>
+{% endmacro %}
+
+<div id="membership" class="row memberships-container" align="center">
+	<div class="col-xs-12 content-container">
+
+		<div class="row header-row">
+			<div class="col-xs-12 header-col">
+				<h1>Memberships</h1>
+			</div>
+		</div>
+
+		<div class="row member-info-row">
+			{{memberBlock(
+				"../../../assets/img/executive-icon.jpg",
+				"EXECUTIVE",
+				"Unlimited  access  to  the  facility  and  amenities",
+				"Vehicle  storage  &  display",
+				"Priority  treatment",
+				"Apply for Executive"
+			)}}
+
+			{{memberBlock(
+				"../../../assets/img/membership-icon.png",
+				"SOCIAL",
+				"Unlimited  access  to  the  clubhouse  &  events",
+				"Showroom  access  during  business  hours",
+				null,
+				"Apply for Social"
+			)}}
+		</div>
+	</div>	
+</div>
+

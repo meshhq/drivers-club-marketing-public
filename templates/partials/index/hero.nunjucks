@@ -1,0 +1,26 @@
+<div class="row hero-container hero-background-image" align="center">
+    <div class="col hero-col">
+        <!-- Description -->
+        <div class="row hero-description-row">
+            <div class="col-xs-12 col-md-6 hero-description-col">
+                <h4 class='d-none d-md-block'>Exclusive social club with vehicle </br> storage and collection management.</h4>
+                <h4 class='d-sm-block d-md-none'>Exclusive social club with </br> vehicle storage and </br> collection management.</h4>
+            </div>
+        </div>
+
+        <!-- View Membership Button -->
+        <div class="row hero-button-row">
+            <div class="col-xs-12 col-md-6 membership-button-col">
+                <button class="membership-button" type="button" class="btn btn-default membership-button">
+                	Learn  More
+                </button>
+            </div>
+        </div>
+
+		<div class="row arrow-row">
+            <div class="col-xs-12">
+				<img src="../../../assets/img/down-arrows.png" class='down-arrows' />
+            </div>
+        </div>
+    </div>
+</div>

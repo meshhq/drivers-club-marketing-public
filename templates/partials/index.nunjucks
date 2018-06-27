@@ -1,0 +1,25 @@
+<div class="container-fluid grid-container">
+    <!-- Nav Bar -->
+	{% include './shared/navbar.nunjucks' %}
+
+	<!-- Hero -->
+    {% include './index/hero.nunjucks' %}
+
+    <!-- Features -->
+    {% include './index/features.nunjucks' %}
+
+	<!-- Features Divider -->
+    {% include './index/topGolf.nunjucks' %}
+
+	<!-- Memberships -->
+    {% include './index/memberships.nunjucks' %}
+
+	<!-- Follow The Drive Divider -->
+    {% include './index/followTheDrive.nunjucks' %}	
+
+	<!-- Contact -->
+    {% include './index/contact.nunjucks' %}	
+
+    <!-- Footer -->
+    {% include './shared/footer.nunjucks' %}
+</div>

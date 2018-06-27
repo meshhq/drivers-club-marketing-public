@@ -1,0 +1,49 @@
+
+{% macro benefit(title, detail, alignment, icon) %}
+<div class="col-xs-12 col-sm-4 col-md-4 benefit-item-col" align="{{ alignment }}">
+    <div class="benefit-content-container">
+        <div class="benefit-image-container">
+            <i class="em {{icon}}"></i>
+        </div>
+        <h4 class="benefit-title">
+            {{ title }}
+        </h4>
+        <p class="benefit-detail">
+            {{ detail}}
+        </p>
+    </div>
+</div>
+{% endmacro %}
+
+ <div class="row benefits-row" align="center">
+     <div class="benefits-col">
+          <div class="row benefit-item-row">
+              {{
+                  benefit( 
+                  'Streamline your daily standup',
+                  'Daily reports allow for fast and efficient meetings',
+                  'left',
+                  'em-rocket'
+                  )
+              }}
+
+              {{
+                  benefit(
+                  'Transparent engineering process',
+                  'Keep customers and stake holders informed on engineering progress',
+                  'center',
+                  'em-mag'
+                  )
+              }}
+
+              {{
+                  benefit(
+                  'Zero-effort setup',
+                  'Standup is integrated with the tools you already use',
+                  'right',
+                  'em-sunglasses'
+                  )
+              }}
+          </div>
+      </div>
+  </div>

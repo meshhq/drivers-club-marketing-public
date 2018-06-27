@@ -1,0 +1,32 @@
+<div class="row footer-container" align="center">
+	<div class="col-xs-12 content-container">
+		<div class="row header-row">
+			<div class="col-xs-12 header-col">
+				<img src="../../../assets/img/dc-logo-white.png" class="img-responsive" alt="Responsive image">
+			</div>
+		</div>
+
+		<div class="row info-row">
+			<div class="col-xs-12 col-sm-3 col-md-4 contact-col">
+				<h5 class="info-header">CONTACT</h5>
+				<p><a href="https://goo.gl/maps/55SKqsb9Cir" target="_blank">7310 185th Ave NE</a></p>
+				<p><a href="https://goo.gl/maps/55SKqsb9Cir" target="_blank">Redmond, WA 98025</a></p>
+				<p><a href="mailto:info@drivers.club" target="_blank">info@drivers.club</a></p>	
+			</div>
+
+			<div class="col-xs-12 col-sm-3 col-md-5 contact-col">
+				<h5 class="info-header">PAGES</h5>
+				<p><a href="https://goo.gl/maps/55SKqsb9Cir" target="_blank">REDMOND</a></p>
+				<p><a href="https://app.drivers.club/events" target="_blank">EVENTS</a></p>
+				<p><a href="#membership">MEMBERSHIPS</a></p>				
+			</div>
+
+			<!-- <div class="col-xs-12 col-sm-3 col-md-3 contact-col">
+				<h5 class="info-header">LATEST BLOG POST</h5>
+				<p><a href="">Welcome to Driving with the Club</a></p>								
+				<p><a href="">When driving became fun again</a></p>								
+			</div> -->
+		</div>
+	</div>
+</div>
+

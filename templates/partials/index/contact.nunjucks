@@ -1,0 +1,18 @@
+<div class='contact-image-div'>
+	<img src='../../../assets/img/redmond-divider.png' class='contact-image' alt="Responsive Image" />
+</div>
+<div class="row contact-container" align="center">
+	<div class="col-xs-12 content-container">	
+		<h1>Contact US</h1>
+		<div>
+			<p><a href="https://goo.gl/maps/55SKqsb9Cir" target="_blank">7310 185th Ave NE</a></p>
+			<p><a href="https://goo.gl/maps/55SKqsb9Cir" target="_blank">Redmond, WA 98025</a></p>
+			<a href="mailto:info@drivers.club">info@drivers.club</a>	
+		</div>
+		<button class="inquire-button">Inquire  About  Membership</button>
+		<div class="image-col">
+			<a href='https://www.facebook.com/therealdriversclub' target="_blank"><img src='../../../assets/img/facebook.png' class="img-responsive" alt="Responsive Image" /></a>
+			<a href='https://www.instagram.com/drivers.club/' target="_blank"><img src='../../../assets/img/instagram.png' class="img-responsive" alt="Responsive Image" /></a>
+		</div>	
+	</div>
+</div>
