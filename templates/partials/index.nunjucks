@@ -5,6 +5,9 @@
 	<!-- Hero -->
     {% include './index/hero.nunjucks' %}
 
+    <!-- Video -->
+    {% include './index/video.nunjucks' %}
+
     <!-- Features -->
     {% include './index/features.nunjucks' %}
 
