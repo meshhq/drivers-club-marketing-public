@@ -9,6 +9,7 @@
       <a class="nav-item nav-link active custom-nav-link" href="https://app.drivers.club/events">EVENTS <span class="sr-only">(current)</span></a>
       <!-- <a id="demo-button" class="nav-item nav-link custom-nav-link" href="#">BLOG</a> -->
       <a class="nav-item nav-link custom-nav-link" href="https://app.drivers.club/inquiry">APPLY</a>
+      <a class="nav-item nav-link custom-nav-link" href="https://store.drivers.club">STORE</a>
       <a class="nav-item nav-link custom-nav-link button-link" href="https://app.drivers.club">MEMBER LOGIN</a>
     </div>
   </div>
